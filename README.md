@@ -29,3 +29,9 @@ Web performance optimization
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLima93&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<h1>
+ hey there
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
