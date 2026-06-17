@@ -21,6 +21,10 @@ NodeJs
 
 Java
 
+Kotlin
+
+Android Studio
+
 Python
 
 libs:
