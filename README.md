@@ -1,38 +1,75 @@
 <h1>
- hey there
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1> I'm Vinicius Lima, a fullstack developer Loved to create digital experience.
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-🛠️ My toolbox includes:
+I'm **Vinicius Lima**, a Full Stack Developer passionate about building
+modern, scalable and user-focused digital experiences.
 
-React,Angular
+<br>
 
-JavaScript
+## 🛠️ Languages and tools
 
-TypeScript
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nextjs,nodejs,nestjs,vite" />
+</p>
 
-HTML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,cs,dotnet,python,kotlin,androidstudio" />
+</p>
 
-CSS
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,docker,aws,firebase,git,gitlab,linux" />
+</p>
 
-Responsive design
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tailwind,materialui" />
+</p>
 
-NodeJs
+<br>
 
-Java
+## 📊 Data & Automation
 
-Kotlin
+<p align="left">
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white" />
+</p>
 
-Android Studio
+<br>
 
-Python
+## 🚀 What I work with
 
-libs:
-Material Ui, Context API
+- Frontend development with React, Angular, TypeScript and Next.js
+- Backend development with Node.js, NestJS, Java and .NET
+- REST APIs and database integration
+- PostgreSQL, MySQL and MongoDB
+- Docker and cloud technologies
+- Power BI and Power Apps
+- Responsive and component-based UI development
+- Git and GitLab workflows
 
- Happy coding! 🚀
+<br>
 
+## 📈 GitHub Activity
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLima93&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=ViniciusLima93&bg_color=0d1117&color=ffffff&line=00c853&point=00c853&area=true&hide_border=true"
+  width="100%"
+/>
 
+<br>
 
+## 💻 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLima93&layout=compact&theme=dark&hide_border=true"
+    height="170"
+  />
+</p>
+
+<br>
+
+<p align="center">
+  <i>Happy coding!</i> 🚀
+</p>
